@@ -1,9 +1,9 @@
 # Strapi CMS Starter Boilerplate
 
-## Stack
+## 💻 Stack
 
-- [Stapi](https://strapi.io)
-- [Fly.io](https://documentation-git-fork-bogdaaamn-docs-fly-deplo-460c6b-strapijs.vercel.app/developer-docs/latest/setup-deployment-guides/deployment/hosting-guides/fly.html)
+- [Stapi](https://strapi.io) CMS
+- [Fly.io](https://fly.io) Hosting
 
 ## 🚀 Getting started
 
@@ -33,10 +33,8 @@ yarn build
 
 ## ⚙️ Deployment
 
+Follow [Fly.io](https://documentation-git-fork-bogdaaamn-docs-fly-deplo-460c6b-strapijs.vercel.app/developer-docs/latest/setup-deployment-guides/deployment/hosting-guides/fly.html) instructions.
+
 ```
 yarn deploy
 ```
-
-## Actions
-
-- [Continuous Deployment with Fly and GitHub Actions](https://fly.io/docs/app-guides/continuous-deployment-with-github-actions/)
