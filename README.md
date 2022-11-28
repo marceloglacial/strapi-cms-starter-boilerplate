@@ -33,7 +33,9 @@ yarn build
 
 ## ⚙️ Deployment
 
-Follow theses instructions on [Fly.io](https://documentation-git-fork-bogdaaamn-docs-fly-deplo-460c6b-strapijs.vercel.app/developer-docs/latest/setup-deployment-guides/deployment/hosting-guides/fly.html)
+```
+yarn deploy
+```
 
 ## Actions
 
